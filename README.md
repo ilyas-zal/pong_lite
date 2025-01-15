@@ -25,7 +25,7 @@
 4. Запустите игру:
 
    ```bash
-   go run main.go
+   go run pong.go
    ```
 
 ## Управление
